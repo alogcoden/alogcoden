@@ -3,7 +3,7 @@
 <h3 align="center">Junior Data Analyst | Python Developer</h3>
 
 <p align="center">
-Passionate about data analysis, problem solving, and transforming data into meaningful insights.
+I am passionate about data analysis and Python development. I enjoy exploring datasets, identifying patterns, and building solutions using Python to transform raw data into meaningful insights.
 </p>
 
 
