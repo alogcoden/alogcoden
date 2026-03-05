@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Asadbek Ismoilov</h1>
 
-<h3 align="center">Junior Data Analyst | Python | SQL | Data Visualization</h3>
+<h3 align="center">Junior Data Analyst | Python Developer</h3>
 
 <p align="center">
 Passionate about data analysis, problem solving, and transforming data into meaningful insights.
