@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Data%20Analyst%20%7C%20Python%20Developer&fontSize=35&fontColor=ffffff"/>
+</p>
 <h1 align="center">Hi 👋 I'm Asadbek Ismoilov</h1>
 
 <h3 align="center">Junior Data Analyst | Python Developer</h3>
