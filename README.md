@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋 I'm Asadbek Ismoilov</h1>
 
-<h3 align="center">Junior Data Analyst | Python Developer</h3>
+<h3 align="center">Data Analyst | Python Developer</h3>
 
 <p align="center">
 I am passionate about data analysis and Python development. I enjoy exploring datasets, identifying patterns, and building solutions using Python to transform raw data into meaningful insights.
